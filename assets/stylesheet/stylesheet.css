@@ -8,13 +8,13 @@
 
 @keyframes heart-beat {
   0% {
-    transform: rotate(-10deg);
+    transform: rotate(-2.5deg);
   }
   50% {
-    transform: rotate(10deg);
+    transform: rotate(2.5deg);
   }
   100% {
-    transform: rotate(-10deg);
+    transform: rotate(-2.5deg);
   }
 }
 
